@@ -1,0 +1,25 @@
+{
+  "name": "stephanie-ratanas",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-material": "^1.1.7",
+    "material-design-lite": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sratanas/stephanie-ratanas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sratanas/stephanie-ratanas/issues"
+  },
+  "homepage": "https://github.com/sratanas/stephanie-ratanas#readme"
+}
