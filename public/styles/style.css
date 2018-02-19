@@ -147,3 +147,29 @@
 a:link {
     color: black;
 }
+
+img {
+    flex-wrap: inherit;
+}
+
+.designimgs{
+    height: 350px;
+    margin:10px;
+    font-family: 'Muli', sans-serif;
+}
+
+#images {
+    padding-top:100px;
+    font-family: 'Muli', sans-serif;
+
+}
+
+#images h2{
+    text-align: left;
+    padding-left:100px;
+}
+
+#queer {
+    width:75%;
+    height: auto;
+}
